@@ -1,0 +1,6 @@
+= RecordRevision
+
+
+This project rocks and uses MIT-LICENSE.
+
+rake record_revision:install:migrations
