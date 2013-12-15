@@ -7,7 +7,7 @@ require "record_revision/version"
 Gem::Specification.new do |s|
   s.name        = "record_revision"
   s.version     = RecordRevision::VERSION
-  s.authors     = ["ponpocopocopoco"]
+  s.authors     = ["ponpocopocopon"]
   s.email       = [""]
   s.homepage    = ""
   s.summary     = "record the difference information."
